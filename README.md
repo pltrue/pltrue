@@ -1,16 +1,17 @@
-## Hi there 👋
+# สวัสดีครับ! ยินดีต้อนรับสู่โปรไฟล์ของฉัน
 
-<!--
-**pltrue/pltrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 สวัสดี! ฉันชื่อ **[ชื่อของคุณ]**. ฉันเป็นนักพัฒนาโปรแกรมที่หลงใหลในการสร้างสิ่งใหม่ๆ โดยใช้เทคโนโลยีที่ทันสมัย
 
-Here are some ideas to get you started:
+## 🔭 ฉันทำอะไรอยู่?
+- 🖥️ กำลังพัฒนาโปรเจค Open Source ด้วย [เทคโนโลยีที่คุณใช้]
+- 🌱 กำลังเรียนรู้ [เทคโนโลยีที่คุณสนใจ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 วิธีติดต่อฉัน
+- Email: [email@example.com]
+- LinkedIn: [ลิงก์ไปที่ LinkedIn]
+
+## 👨‍💻 โครงการที่ฉันทำ
+- [โครงการที่น่าสนใจ 1](https://github.com/username/project1)
+- [โครงการที่น่าสนใจ 2](https://github.com/username/project2)
+
+## 💡 ขอบคุณที่แวะมาชมโปรไฟล์ของฉัน!
