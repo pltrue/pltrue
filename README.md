@@ -19,7 +19,7 @@
 
 **[OWNER & Staff]**
 
-[![_pltrue](https://www.facebook.com/sumetee.true)
+[[_pltrue])
 
 </div>
 
