@@ -17,9 +17,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**[OWNER & Staff BOT]**
+**[OWNER & Staff]**
 
-[![BloodRose BOT](https://dcbadge.vercel.app/api/shield/897621786492039229?bot=true)](https://discord.com/api/oauth2/authorize?client_id=914008826301272094&permissions=8&scope=bot%20applications.commands)
+[![_pltrue](https://www.facebook.com/sumetee.true)
 
 </div>
 
