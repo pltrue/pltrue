@@ -23,6 +23,8 @@
 
 </div>
 
+<div class="row" style="justify-content: center; margin-top: 4rem;"><div class="col-md-2 withdarker picbx" style="text-align: center;"><a href="https://cdn.discordapp.com/avatars/685371801446121493/3cacfd748595939f0db1c04c00676519.png?size=1024" target="_blank"><img src="https://cdn.discordapp.com/avatars/685371801446121493/3cacfd748595939f0db1c04c00676519.png?size=1024" class="avyimg"></a></div><div class="col-md-4 withdarker"><!----><p><span class="fas fa-user"></span> <strong>User  ID</strong>: <span class="resulth">685371801446121493</span></p><p><span class="fas fa-hashtag"></span> <strong>Username</strong>: <span class="resulth" style="color: rgb(228, 154, 255);"><span>_pltrue#0</span><!----></span></p><p><span class="fas fa-tags"></span> <strong>Badges</strong>: <!----><span><img src="/img/flags/6.png" id="bxo6" class="badgepng"><!----></span><span><img src="/img/flags/22.png" id="bxo22" class="badgepng"><!----></span></p><p><span class="fas fa-asterisk"></span> <strong>Created</strong>: <span class="resulth" style="color: rgb(129, 200, 134);">Fri, 06 Mar 2020 06:22:51 UTC</span></p><p><span class="fas fa-palette"></span> <strong>Banner Color</strong>: <span class="resulth"><!----><span style="border-radius: 2px; vertical-align: sub; display: inline-block; height: 1.1rem; width: 4.5rem;"></span></span></p></div></div>
+
 **Contact Me:**
 
 - **Email:** [sumetee.chomthawat@gmail.com](mailto:sumetee.chomthawat@gmail.com)
