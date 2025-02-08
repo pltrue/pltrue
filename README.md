@@ -3,6 +3,10 @@
 
 <div align="center">
 
+**[ IDEs / Editors ]**
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 **[ Languages & Tools ]**
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -12,6 +16,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**[OWNER & Staff BOT]**
+
+[![BloodRose BOT](https://dcbadge.vercel.app/api/shield/897621786492039229?bot=true)](https://discord.com/api/oauth2/authorize?client_id=914008826301272094&permissions=8&scope=bot%20applications.commands)
 
 </div>
 
