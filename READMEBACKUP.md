@@ -1,10 +1,6 @@
 <h1 align="center">Hi!, I'm Sumetee Chomthawat ~! ✨</h1>
 <h3 align="center">Developer | Open Source Enthusiast | PHP Developer</h3>
 
-- This profile is made with love. ❤️
-
-- Passionate about developing Open Source projects with **PHP** and constantly exploring new technologies.
-
 - Feel free to contact me via email or on social media if you'd like to chat about tech, games, or anything!
 
 <div align="center">
