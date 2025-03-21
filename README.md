@@ -26,4 +26,4 @@
 
 ---
 
-Powered by Pltrue API
+Powered by API
