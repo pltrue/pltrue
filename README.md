@@ -18,7 +18,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-![Name](https://img.shields.io/badge/Sumetee%20Chomthawat-0288d1)
 **Contact Me:**
 
 - **Email:** [sumetee.chomthawat@gmail.com](mailto:sumetee.chomthawat@gmail.com)
