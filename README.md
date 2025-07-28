@@ -26,6 +26,12 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+**[ AI Tools ]**
+
+![alt text](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=googleai&logoColor=white) 
+![alt text](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![alt text](https://img.shields.io/badge/Claude-D97654?style=for-the-badge&logo=anthropic&logoColor=white)
+
 </div>
 
 **Contact Me:**
