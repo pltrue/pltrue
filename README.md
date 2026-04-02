@@ -33,7 +33,7 @@
 ![alt text](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=GoogleAIStudio&logoColor=white)
 ![alt text](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![alt text](https://img.shields.io/badge/Claude-D97654?style=for-the-badge&logo=anthropic&logoColor=white)
-![alt text](https://img.shields.io/badge/Stitch-FFB1ED?style=for-the-badge&logo=anthropic&logoColor=white)
+![alt text](https://img.shields.io/badge/Stitch-FFB1ED?style=for-the-badge&logo=lab&logoColor=white)
 
 
 </div>
