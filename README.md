@@ -7,7 +7,7 @@
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -25,10 +25,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker Desktop](https://img.shields.io/badge/Docker%20Desktop-3776AB?style=for-the-badge&logo=DockerDesktop&logoColor=white)
 
 **[ AI Tools ]**
 
-![alt text](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=googleai&logoColor=white) 
+![alt text](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=GoogleAntigravity&logoColor=white) 
 ![alt text](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![alt text](https://img.shields.io/badge/Claude-D97654?style=for-the-badge&logo=anthropic&logoColor=white)
 
