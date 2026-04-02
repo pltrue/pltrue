@@ -13,6 +13,7 @@
 
 **[ IDEs / Editors ]**
 
+![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=GoogleAntigravity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **[ Database ]**
@@ -29,9 +30,11 @@
 
 **[ AI Tools ]**
 
-![alt text](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=GoogleAntigravity&logoColor=white) 
+![alt text](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=GoogleAIStudio&logoColor=white)
 ![alt text](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![alt text](https://img.shields.io/badge/Claude-D97654?style=for-the-badge&logo=anthropic&logoColor=white)
+![alt text](https://img.shields.io/badge/Stitch-D97654?style=for-the-badge&logo=anthropic&logoColor=white)
+
 
 </div>
 
