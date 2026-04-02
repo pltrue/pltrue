@@ -28,7 +28,7 @@
 
 **[ AI Tools ]**
 
-![alt text](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=googleai&logoColor=white) 
+![alt text](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=googleai&logoColor=white) 
 ![alt text](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![alt text](https://img.shields.io/badge/Claude-D97654?style=for-the-badge&logo=anthropic&logoColor=white)
 
